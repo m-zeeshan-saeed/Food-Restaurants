@@ -1,0 +1,17 @@
+/* css reset */
+* {
+  margin: 0%;
+  padding: 0%;
+}
+/* navigation bar */
+#navbar {
+  display: flex;
+  align-items: center;
+}
+#logo {
+  width: 24px;
+  height: 35px;
+}
+#logo img {
+  margin: 10px;
+}
